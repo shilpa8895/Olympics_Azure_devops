@@ -1,16 +1,16 @@
 [
     {
-        "p_rel_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/athletes.csv",
+        "p_relative_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/athletes.csv",
         "p_folder" : "athletes",
         "p_file" : "athletes.parquet"
     },
     {
-        "p_rel_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/coaches.csv",
+        "p_relative_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/coaches.csv",
         "p_folder" : "coaches",
         "p_file" : "coaches.parquet"
     },
     {
-        "p_rel_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/events.csv",
+        "p_relative_url" : "shilpa8895/Olympics_Azure_devops/refs/heads/main/data/events.csv",
         "p_folder" : "events",
         "p_file" : "events.parquet"
     }
